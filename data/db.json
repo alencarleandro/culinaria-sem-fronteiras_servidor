@@ -1,14 +1,28 @@
 {
   "usuarios": [
-   
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123",
+      "estado": "Minas Gerais",
+      "email": "admin@gmail.com",
+      "receitas": ["1"]
+    }   
   ],  
   "receitas": [
-   
-  ],  
-  "ingredientes": [
-   
-  ],
-  "dietas": [
-   
+    {
+      "id": "1",
+      "titulo": "Bolo de Chocolate",
+      "foto": "",
+      "dificuldade": "",
+      "nota": "",
+      "hora": "",
+      "minuto": "",
+      "descricao": "",
+      "link": "",
+      "passo": "",
+      "porcoes": "",
+      "ingredientes": ""
+    }
   ]
 }
