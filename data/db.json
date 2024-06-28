@@ -13,16 +13,16 @@
     {
       "id": "1",
       "titulo": "Bolo de Chocolate",
-      "foto": "",
-      "dificuldade": "",
-      "nota": "",
-      "hora": "",
-      "minuto": "",
-      "descricao": "",
-      "link": "",
-      "passo": "",
-      "porcoes": "",
-      "ingredientes": ""
+      "foto": "https://raw.githubusercontent.com/alencarleandro/culinaria-sem-fronteiras_servidor/main/img/bolo_chocolate.jpeg",
+      "dificuldade": "1",
+      "nota": "5",
+      "hora": "1",
+      "minuto": "30",
+      "descricao": "Esse bolo de chocolate leva uma calda feita de creme de leite e chocolate em pó: ele fica bem molhadinho e é fácil de fazer. ",
+      "link": "https://www.youtube.com/watch?v=8czJPpXT3_M",
+      "passo": "Modo de Preparo  Massa  1  Bata todos os ingredientes por 5 minutos, menos o fermento.  2  Adicione o fermento e misture com uma espátula delicadamente  3  Coloque em uma forma untada e asse por 40 minutos.  Modo de Preparo  Calda  1  Aqueça a manteiga e misture o chocolate em pó até que esteja homogêneo.  2  Acrescente o creme de leite e misture bem.  3  Desligue o fogo e acrescente o açúcar.",
+      "porcoes": "8",
+      "ingredientes": "Massa   4 ovos   4 colheres de sopa de chocolate em pó   2 colheres de sopa de manteiga   3 xícaras de farinha de trigo   2 xícaras de açúcar   2 colheres de chá de fermento   1 xícara de leite      Calda   2 colheres de sopa de manteiga   7 colheres de sopa de chocolate em pó   2 latas de creme de leite com soro   3 colheres de sopa de açúcar"
     }
   ]
 }
