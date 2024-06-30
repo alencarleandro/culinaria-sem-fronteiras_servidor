@@ -24,7 +24,7 @@
         "PUT"
       ],
       "headers": {
-        "Access-Control-Allow-Methods": "*"
+        "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
       }
     }
   ]
