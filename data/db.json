@@ -8,7 +8,7 @@
       "email": "admin@gmail.com",
       "descricao": "Sou natural de Belo Horizonte busco no site algumas receitas bem gostosas, além de publicar algumas que já sei.",
       "foto": "https://raw.githubusercontent.com/alencarleandro/culinaria-sem-fronteiras_servidor/main/img/joao.jpeg",
-      "receitas": ["1","2","3","4","5","6"]
+      "receitas_feitas": ["1","2","3","4","5","6"]
     }   
   ],  
   "receitas": [
