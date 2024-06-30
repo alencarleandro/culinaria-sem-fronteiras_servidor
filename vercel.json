@@ -23,11 +23,12 @@
         "POST",
         "PUT"
       ],
-      "headers": [
+      "headers": 
         {
-          "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
+          "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
+          "Access-Control-Allow-Origin":"*"
         }
-      ]
+      
     }
   ]
 }
